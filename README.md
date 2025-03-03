@@ -1,4 +1,5 @@
-This repo acts like a feature gallery in unity6 This repo is totally made by WSM from stratch Using Meta Quest3, but can migrate features for your devices as well
+This repo acts like a feature gallery in unity6 This repo is totally made by WSM from stratch Using Meta Quest3, but can import unitypackages to your projects.
+As long as you credit: "Github: WSMYKM3"
 
 Package:Meta all-in-one  
 Current Platform:Andriod  
